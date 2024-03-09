@@ -1,0 +1,9 @@
+
+*.salih
+*.d
+*.crf
+*.crf
+*.o
+*.dbgconf
+*.lst
+Listings/zems.map
